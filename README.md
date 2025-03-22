@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anchit Dixit</h1> 
-<h3 align="center">Hey! I'm Anchit Dixit, a CS student who loves to develop Native Android Applications using Koltin.</h3>
+<h3 align="center">A CS student who loves to develop Native Android Applications using Koltin.</h3>
 <img align="centre" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchitdixit&label=Profile%20views&color=0e75b6&style=flat" alt="anchitdixit" /> </p>
